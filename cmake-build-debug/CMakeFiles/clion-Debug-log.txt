@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/Users/elisa/Github projects/prprI2425-ICE-g4" -B "/Users/elisa/Github projects/prprI2425-ICE-g4/cmake-build-debug"
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.29 or higher is required.  You are running version 3.26.4
+
+
+-- Configuring incomplete, errors occurred!
